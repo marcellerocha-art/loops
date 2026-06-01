@@ -1,6 +1,6 @@
 # 🎀 Loops - Exercícios de Lógica com Python
 
-Bem-vindo a este repositório fofo de **exercícios de lógica com Python**! 🐍✨
+Bem-vindo a este repositório de **exercícios de lógica com Python**! 🐍✨
 
 ## 📚 O que é este repositório?
 
@@ -48,11 +48,3 @@ loops/
 ## 💬 Contribuições
 
 Sugestões de exercícios ou melhorias são sempre bem-vindas! Sinta-se livre para abrir uma issue ou pull request! 🌟
-
-## 📄 Licença
-
-Este projeto está disponível sob a licença MIT.
-
----
-
-**Feliz aprendizado!** 🎀💕 Lembre-se: todo programador começou do zero. Você consegue! 🚀
